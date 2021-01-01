@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeliseTest.API", "SeliseTest.API\SeliseTest.API.csproj", "{8DBF1208-FA89-45BD-B32F-78967CB4AFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeliseTest.Data", "SeliseTest.Data\SeliseTest.Data.csproj", "{4BEFAA80-FA1D-46F2-928A-C7EA007C1257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DBF1208-FA89-45BD-B32F-78967CB4AFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBF1208-FA89-45BD-B32F-78967CB4AFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBF1208-FA89-45BD-B32F-78967CB4AFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBF1208-FA89-45BD-B32F-78967CB4AFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BEFAA80-FA1D-46F2-928A-C7EA007C1257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEFAA80-FA1D-46F2-928A-C7EA007C1257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEFAA80-FA1D-46F2-928A-C7EA007C1257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEFAA80-FA1D-46F2-928A-C7EA007C1257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758AB71E-C019-44C2-8B97-6C446F6035D0}
+	EndGlobalSection
+EndGlobal
